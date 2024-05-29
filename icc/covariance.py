@@ -7,7 +7,7 @@ but can't receive his ancestor
 
 from collections.abc import Sequence
 
-from .employees import (
+from employees import (
     Employee, Programmer,
     accountant, programmer, fronteder, backender
 )
