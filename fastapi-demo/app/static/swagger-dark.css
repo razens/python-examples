@@ -1,0 +1,15 @@
+/* Basic dark theme */
+body {
+    background-color: #222;
+    color: #eee;
+}
+
+.swagger-ui .topbar {
+    background-color: #333;
+}
+
+.swagger-ui .opblock .opblock-summary-method {
+    background-color: #444;
+}
+
+/* Add more styles as needed to customize the look */

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Hands-On-Docker-for-Microservices-with-Python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../chatgpt-telegram-bot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../docs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../fastapi-realworld-example-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../foodie" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../python-cheatsheet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../python_examples" vcs="Git" />
+  </component>
+</project>
